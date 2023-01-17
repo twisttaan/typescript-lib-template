@@ -1,3 +1,5 @@
+> Archive Notice: Uses bad practices, my up-to-date template is just me copying my smallest package of a project now 😭
+
 # typescript lib template
 
 ## features
